@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/melaneon/.dotnet/store/|arch|/|tfm|",
+      "/Users/melaneon/.nuget/packages"
+    ]
+  }
+}

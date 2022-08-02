@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lQ24aQ0heWhYRquv0Cf+ZTfN7NlGLGKPGAQO62i73N/NRUIHBMcNkY6DbF+suMQ8PJyhv5pVFzIZ09m1TMnYAQ==",
+  "success": true,
+  "projectFilePath": "D:\\Camosun\\Fall_2020-2021\\ICS114\\Melaniia_Frolova_Lab01\\Bonus\\Bonus\\Bonus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fpopt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\fpopt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\fpopt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\fpopt\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
